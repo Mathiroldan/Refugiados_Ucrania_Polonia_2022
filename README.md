@@ -16,17 +16,17 @@ Análisis de la situación migratoria en la frontera Polonia-Ucrania a principio
 
 | Item                  | Descripción                                |
 |-----------------------|--------------------------------------------|
-| **Equipo**            |                                                                   |
 | **Proyecto**          |                                                                 |
-| **Fecha de inicio**   |                                                          |
-| **Fecha de cierre**  |                                                         |
+| **Fecha de realización**   |                                                          |
 | **Herramienta utilizada** | Microsoft Excel                                       |
 
 ---
 
 ### Planificación del proyecto
+
 #### Descripción
-#### Objetivos general
+
+#### Objetivos
 
 ---
 
@@ -35,7 +35,7 @@ Análisis de la situación migratoria en la frontera Polonia-Ucrania a principio
 #### Fases del desarrollo del proyecto
 
 | **Item**              | **Descripción**                           |
-|-----------------------|-------------------------------------------|
+|--------------------------|-------------------------------------------|
 | **Problema y preguntas**              | Definición del proyecto |
 | **Recolección de datos** | Upload datasets in CSV format or connect to databases. Interactive data exploration: distributions, correlations, and outliers. |
 | **Limpieza de datos** | Data cleaning and transformation: handling missing values, duplicates, and scaling. User-customizable transformations. |
