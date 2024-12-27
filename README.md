@@ -2,7 +2,7 @@
 Análisis de la situación migratoria en la frontera Polonia-Ucrania a principios del 2022, en el contexto del conflitco bélico entre Rusia y Ucrania.
 
 <p align="center">
-  <img width="460" height="450" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnoticiaspia.com%2Fpolonia-esta-dispuesta-a-luchar-en-ucrania%2F&psig=AOvVaw2wuucy0tJCTWP1uFn2szST&ust=1735387956190000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKj3lon2x4oDFQAAAAAdAAAAABAR">
+  <img width="460" height="450" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnoticiaspia.com%2Fpolonia-esta-dispuesta-a-luchar-en-ucrania%2F&psig=AOvVaw2wuucy0tJCTWP1uFn2szST&ust=1735387956190000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKj3lon2x4oDFQAAAAAdAAAAABAR.jpg">
 </p>
 
 ### Tabla de Contenidos
