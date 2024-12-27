@@ -7,7 +7,7 @@ Análisis de la situación migratoria en la frontera Polonia-Ucrania a principio
 
 ### Tabla de Contenidos
 1. [Información del proyecto](#informacion-del-proyecto)
-2. [Planificación del proyecto](#planificacion-del-proyecto)
+2. [Sobre el proyecto](#sobre-el-proyecto)
 3. [Desarrollo del proyecto](#desarrollo-del-proyecto)
 4. [Contenido del proyecto](#contenido-del-proyecto)
 
@@ -22,7 +22,7 @@ Análisis de la situación migratoria en la frontera Polonia-Ucrania a principio
 
 ---
 
-### Planificación del proyecto
+### Sobre el proyecto
 
 #### Descripción
 
