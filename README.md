@@ -2,7 +2,7 @@
 Análisis de la situación migratoria en la frontera Polonia-Ucrania a principios del 2022, en el contexto del conflitco bélico entre Rusia y Ucrania.
 
 <p align="center">
-  <img width="460" height="450" src="https://noticiaspia.com/wp-content/uploads/2022/05/polonia-ucrania-banderas.jpg">
+  <img width="770" height="420" src="https://noticiaspia.com/wp-content/uploads/2022/05/polonia-ucrania-banderas.jpg">
 </p>
 
 ### Tabla de Contenidos
