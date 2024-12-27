@@ -16,8 +16,8 @@ Análisis de la situación migratoria en la frontera Polonia-Ucrania a principio
 
 | Item                  | Descripción                                |
 |-----------------------|--------------------------------------------|
-| **Proyecto**          |                                                                 |
-| **Fecha de realización**   |                                                          |
+| **Proyecto**          |  Movimiento migratorio en Polonia y Ucrania               |
+| **Fecha de realización**   | Octubre de 2022                                      |
 | **Herramienta utilizada** | Microsoft Excel                                       |
 
 ---
