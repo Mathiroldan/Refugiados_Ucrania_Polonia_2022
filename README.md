@@ -26,7 +26,9 @@ Análisis de la situación migratoria en la frontera Polonia-Ucrania a principio
 
 #### Descripción
 
-#### Objetivos
+El presente trabajo contiene un dashboard realizado a partir de datos estadisticos sobre la situación en la frontera polaco-ucraniana, en el contexto de la guerra entre Rusia y Ucrania,
+que forzó a cientos de personas a huir de sus hogares y encontrar refugio en países aledaños. El dashboard muestra el flujo migratorio a través del primer trimestre del 2022, por que
+puestos las personas atravesaron la frontera, y la nacionalidad de los mismos, entre otras cosas.
 
 ---
 
@@ -37,12 +39,11 @@ Análisis de la situación migratoria en la frontera Polonia-Ucrania a principio
 | **Item**              | **Descripción**                           |
 |--------------------------|-------------------------------------------|
 | **Problema y preguntas**              | Definición del proyecto |
-| **Recolección de datos** | Upload datasets in CSV format or connect to databases. Interactive data exploration: distributions, correlations, and outliers. |
-| **Limpieza de datos** | Data cleaning and transformation: handling missing values, duplicates, and scaling. User-customizable transformations. |
-| **Análisis exploratorio**      | Interactive dashboard for key KPIs like fraud percentage, trends, and geographic analysis. Dynamic charts and visualizations. |
-| **Visualización** | Model training for fraud prediction. Evaluation metrics such as precision, recall, and F1-score. User testing of hyperparameters. |
-| **Reporte** | Generate downloadable reports in PDF or Excel format with key metrics and charts. Includes an executive summary of the analysis. |
-| **Documentación**     | Technical details of the project, tools used, and team roles. System usage guide. |
+| **Recolección de datos** | Relevamiento de datos y carga del mismo en formato csv. |
+| **Limpieza de datos** | Eliminación y reordenamiento de columnas; eliminación de duplicados y corrección de  datos en blanco.|
+| **Tablas dinámicas y gráficos**      | Creación de tablas para la posterior realización de gráficos; utilizacón de funciones. |
+| **Visualización** | Creación de Mockup; elaboración del tablero final. |
+| **Reporte** | Presentación de la versión definitiva del proyecto. |
 
 ---
 
