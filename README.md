@@ -49,4 +49,10 @@ puestos las personas atravesaron la frontera, y la nacionalidad de los mismos, e
 
 ### Contenido del proyecto
 
+**Portada** ![Portada](https://github.com/user-attachments/assets/d3b61455-ab46-4400-810c-705ce4e5969a)
+
+**Tablero (Parte Superior)** ![Dashboard-Pt-1](https://github.com/user-attachments/assets/44d1f042-6ee8-4a4d-b073-3227aad8e46d)
+
+**Tablero (Parte Inferior)** ![Dashboard-Pt-2](https://github.com/user-attachments/assets/b1659ab3-bf7d-48a2-8196-dfec7b7cc8cc)
+
 ---
